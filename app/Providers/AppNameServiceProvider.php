@@ -5,7 +5,7 @@ namespace App\Providers;
 use App\Services\Post\Service as PostService;
 use Illuminate\Support\ServiceProvider;
 
-class DianServiceProvider extends ServiceProvider
+class AppNameServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.

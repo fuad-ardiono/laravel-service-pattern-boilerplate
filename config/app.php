@@ -180,7 +180,7 @@ return [
         /*
          * Our service provider
          */
-        App\Providers\DianServiceProvider::class,
+        App\Providers\AppNameServiceProvider::class,
     ],
 
     /*
